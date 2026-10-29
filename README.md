@@ -375,8 +375,8 @@ Welcome, Abhi!
 The screenshot for this test case should also visibly show:
 
 ```text
-Name: abhishek sharma
-USN: 25MCAR0086
+Name: sudharsan
+USN: 25MCAR0135
 ```
 
 **Screenshot:**
@@ -465,8 +465,8 @@ The experiment successfully demonstrates basic Android UI development, Activity 
 
 # 14\. Student Details
 
-**Name:**abhishek sharma 
-**USN:** 25MCAR0086
+**Name:**sudharsan 
+**USN:** 25MCAR0135
 
 &#x20; 
 **Experiment:** 4 – Android Login and Home Page Navigation
