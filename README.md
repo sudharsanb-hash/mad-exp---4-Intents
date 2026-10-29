@@ -112,14 +112,14 @@ The Forgot Password and Registration options are provided as UI options only. No
 For example, if the user enters:
 
 ```text
-Username: Abhi
+Username: sudharsan
 Password: 1234
 ```
 
 and clicks Login, the Home page displays:
 
 ```text
-Welcome, abhi!
+Welcome, sudharsan!
 ```
 
 \---
@@ -158,7 +158,7 @@ After clicking Login, the application navigates to:
 ```text
        Welcome!
 
-    Welcome, Abhi!
+    Welcome, sudharsan!
 ```
 
 \---
@@ -227,10 +227,10 @@ The username is then displayed:
 welcomeText.text = "Welcome, $username!"
 ```
 
-Therefore, if the entered username is `Isha`, the Home page displays:
+Therefore, if the entered username is `sudharsan`, the Home page displays:
 
 ```text
-Welcome, Abhi!
+Welcome, sudharsan!
 ```
 
 \---
@@ -333,7 +333,7 @@ Don't have an account? Register
 ### Test Data
 
 ```text
-Username: abhi
+Username: sudharsan
 Password: 1234
 ```
 
@@ -342,7 +342,7 @@ Password: 1234
 The application should navigate to the Home page and display:
 
 ```text
-Welcome, abhi!
+Welcome, sudharsan!
 ```
 
 **Screenshot:**
@@ -369,7 +369,7 @@ Welcome, abhi!
 The Home page should display a personalized message such as:
 
 ```text
-Welcome, Abhi!
+Welcome, sudharsan!
 ```
 
 The screenshot for this test case should also visibly show:
@@ -400,7 +400,7 @@ The entered username is passed to the Home Activity and displayed in the welcome
 For example:
 
 ```text
-Welcome, Abhi!
+Welcome, sudharsan!
 ```
 
 ### Output Screenshot
